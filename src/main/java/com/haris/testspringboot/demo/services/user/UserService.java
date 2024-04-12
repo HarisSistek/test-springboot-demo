@@ -3,7 +3,6 @@ package com.haris.testspringboot.demo.services.user;
 import com.google.common.collect.ImmutableList;
 import com.haris.testspringboot.demo.services.user.model.User;
 import com.haris.testspringboot.demo.services.user.model.UserRequestBody;
-import java.util.Collection;
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
